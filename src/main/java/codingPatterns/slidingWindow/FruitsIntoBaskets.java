@@ -1,4 +1,4 @@
-package codingPatterns;
+package codingPatterns.slidingWindow;
 
 import java.util.*;
 
